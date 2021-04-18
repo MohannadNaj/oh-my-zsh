@@ -1,0 +1,12 @@
+[submodule "custom/plugins/zsh-history-substring-search"]
+	path = custom/plugins/zsh-history-substring-search
+	url = https://github.com/zsh-users/zsh-history-substring-search
+[submodule "custom/plugins/zsh-autosuggestions"]
+	path = custom/plugins/zsh-autosuggestions
+	url = https://github.com/zsh-users/zsh-autosuggestions
+[submodule "custom/themes/powerlevel10k"]
+	path = custom/themes/powerlevel10k
+	url = https://github.com/romkatv/powerlevel10k.git
+[submodule "custom/plugins/history-search-multi-word"]
+	path = custom/plugins/history-search-multi-word
+	url = git@github.com:zdharma/history-search-multi-word.git

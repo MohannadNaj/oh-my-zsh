@@ -8,3 +8,7 @@
 # brainstormr=~/Projects/development/planetargon/brainstormr
 # cd $brainstormr
 #
+
+alias gc='git checkout'
+alias gfp='git fetch -p'
+alias gms='git merge --squash'
